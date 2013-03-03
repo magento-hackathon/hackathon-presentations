@@ -1,7 +1,7 @@
 Capistrano Presentation
 =======================
 
-Author: Sylvain Rayé
+Author: Sylvain Rayé<br>
 Date: 10 March 2013
 
 
