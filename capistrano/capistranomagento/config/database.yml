@@ -1,0 +1,32 @@
+local:
+    adapter: mysql
+    dbname: hackathon_magento
+    dbuser: hackathon
+    dbpass: magento
+    dbhost: 127.0.0.1
+    dbtype: pdo_mysql
+    dbmodel: mysql4
+    dbpdotype: 
+    dbprefix: mage_
+    
+staging:
+    adapter: mysql
+    dbname: hackathon_magentostaging
+    dbuser: hackathon
+    dbpass: magento
+    dbhost: 127.0.0.1
+    dbtype: pdo_mysql
+    dbmodel: mysql4
+    dbpdotype: 
+    dbprefix: mage_
+
+production:
+    adapter: mysql
+    dbname: hackathon_magentoproduction
+    dbuser: hackathon
+    dbpass: magento
+    dbhost: 127.0.0.1
+    dbtype: pdo_mysql
+    dbmodel: mysql4
+    dbpdotype: 
+    dbprefix: mage_

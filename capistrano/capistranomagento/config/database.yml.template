@@ -1,0 +1,22 @@
+stagename:
+    adapter: mysql
+    dbname: hackathon_magento
+    dbuser: username
+    dbpass: password
+    dbhost:  127.0.0.1
+    dbtype: pdo_mysql
+    dbmodel: mysql4
+    dbpdotype: 
+    dbprefix: 
+    
+otherstagename:
+    adapter: mysql
+    dbname: hackathon_magento
+    dbuser: username
+    dbpass: password
+    dbhost:  127.0.0.1
+    dbtype: pdo_mysql
+    dbmodel: mysql4
+    dbpdotype: 
+    dbprefix: 
+    

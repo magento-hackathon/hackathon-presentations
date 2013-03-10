@@ -1,0 +1,1 @@
+You can add in this folder your magento files or copy the Capfile and config folder to your project. Keep in mind it's not mandatory to put these files to your project. It is independant, it is just for convenient way.
