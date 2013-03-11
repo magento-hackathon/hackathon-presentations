@@ -2,7 +2,7 @@ Capistrano Presentation
 =======================
 
 Author: Sylvain Rayé<br>
-Date: 10 March 2013
+Date: 10 March 2013<br>
 Event: Mage Hackathon Zürich
 
 
