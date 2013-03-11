@@ -1,0 +1,3 @@
+[submodule "solr-magento"]
+	path = solr-magento
+	url = https://github.com/sitewards/presentation-solr-magento
