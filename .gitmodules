@@ -1,3 +1,6 @@
 [submodule "solr-magento"]
 	path = solr-magento
 	url = https://github.com/sitewards/presentation-solr-magento
+[submodule "magento-customize-cart-item"]
+	path = four-ways-to-customize-cart-item
+	url = https://github.com/tim-bezhashvyly/magento-customize-cart-item
