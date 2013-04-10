@@ -4,3 +4,6 @@
 [submodule "magento-customize-cart-item"]
 	path = magento-customize-cart-item
 	url = https://github.com/tim-bezhashvyly/magento-customize-cart-item
+[submodule "deploy_with_capistrano"]
+	path = deploy_with_capistrano
+	url = git://github.com/diglin/Capistrano.git
